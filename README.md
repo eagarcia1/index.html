@@ -2,10 +2,12 @@
 ## sub bullet
 > [warning]
 > this is a demo
--line one email
+- line one email
 Esteban Garcia eagarcia1@my.waketech.edu
-This is my school account
-This repository will hold my assignments
+
+- This is my school account
+
+- This repository will hold my assignments
 ```python# Simple Python program to greet the user and calculate when they'll turn 100
 
 # Ask for user's name and age
