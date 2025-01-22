@@ -1,7 +1,11 @@
 # ABOUT ME
 ## MY INTERESTS
-
+- Petting my kitties
+- Playing violent video games
+- Passing every class with an A
 ## WEBSITES I RECOMMEND
+- [Mermaid](https://mermaid.js.org/) - I like this website because I am going to need to learn mermaid if I want to pass this class.
+- [Medal of Honor](https://www.cmohs.org/) - The story of the recipients of the Medal of Honor inspire me to be the best that I can be.
 
 
 
