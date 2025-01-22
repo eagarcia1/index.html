@@ -1,10 +1,16 @@
-# this is the title
-## sub bullet
+# ABOUT ME
+## MY INTERESTS
+
+## WEBSITES I RECOMMEND
+
+
+
+
+
 > [warning]
 > this is a demo
 - line one email
 Esteban Garcia eagarcia1@my.waketech.edu
-
 - This is my school account
 
 - This repository will hold my assignments
@@ -22,3 +28,11 @@ year_turn_100 = current_year - age + 100
 print(f"Hello, {name}!")
 print(f"You will turn 100 years old in the year {year_turn_100}.")
 ```
+[LINK TEXT] (WWW.GOOGLE.COM)
+
+> BLOCKQUOTE
+1. WAKE
+2. TECH
+3. UNIVERSITY
+
+---
