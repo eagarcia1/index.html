@@ -38,12 +38,3 @@ year_turn_100 = current_year - age + 100
 # Print a greeting message and when the user will turn 100
 print(f"Hello, {name}!")
 print(f"You will turn 100 years old in the year {year_turn_100}.")
-```
-[LINK TEXT] (WWW.GOOGLE.COM)
-
-> BLOCKQUOTE
-1. WAKE
-2. TECH
-3. UNIVERSITY
-
----
